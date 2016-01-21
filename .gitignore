@@ -1,0 +1,8 @@
+*.o
+*.a
+*.map
+*.depend
+u-boot
+*.bin
+*.lds
+*.srec
